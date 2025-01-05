@@ -41,6 +41,3 @@ SnapCart is a fast and intuitive e-commerce platform designed to provide a seaml
     npm start
     ```
 
-## Contributing
-We welcome contributions! If you'd like to improve SnapCart, feel free to fork the repository, make your changes, and submit a pull request.
-
