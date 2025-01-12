@@ -1,6 +1,4 @@
-Here's a simple README template for your **SnapCart** e-commerce platform:
 
----
 
 # SnapCart
 
